@@ -1,0 +1,7 @@
+= parcel-demo
+
+Demo for parcel-bundler.
+
+== Included Features
+- typescript
+- scss
